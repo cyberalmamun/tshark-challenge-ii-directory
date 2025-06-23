@@ -19,3 +19,4 @@ TShark Challenge II: Directory
 ---
 
 ## Step-by-Step Walkthrough
+![Screenshot 2025-06-23 at 11 22 35 PM](https://github.com/user-attachments/assets/56dd4b00-d391-4a44-aac2-15704a1be5c5)
