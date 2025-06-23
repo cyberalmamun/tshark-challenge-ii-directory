@@ -19,9 +19,9 @@ TShark Challenge II: Directory
 ---
 
 ## Step-by-Step Walkthrough
-![Screenshot 2025-06-23 at 11 22 35 PM](https://github.com/user-attachments/assets/56dd4b00-d391-4a44-aac2-15704a1be5c5)
-![Screenshot 2025-06-23 at 11 51 01 PM](https://github.com/user-attachments/assets/3fa35863-8f28-4189-838c-ed23685f5dd2)
-![Screenshot 2025-06-23 at 11 46 59 PM](https://github.com/user-attachments/assets/fbc337a8-049a-48b0-90bc-f503dda9155c)
-![Screenshot 2025-06-23 at 11 40 51 PM](https://github.com/user-attachments/assets/0c44d60b-242a-4e33-b8b5-ad568defaf8c)
-![Screenshot 2025-06-23 at 11 26 20 PM](https://github.com/user-attachments/assets/af25a7e0-99a3-41f4-9f8c-47dfba4796aa)
-![Screenshot 2025-06-23 at 11 24 21 PM](https://github.com/user-attachments/assets/dd24a852-476d-4de9-a8ae-8e1ef543cb56)
+![Screenshot 2025-06-23 at 11 22 35 PM](https://github.com/user-attachments/assets/6c79ca08-429b-45d6-8975-14664c0af047)
+![Screenshot 2025-06-23 at 11 24 21 PM](https://github.com/user-attachments/assets/e39ad7eb-5469-486f-ad25-abe36ba06311)
+![Screenshot 2025-06-23 at 11 26 20 PM](https://github.com/user-attachments/assets/bda9b570-b8e0-436d-baab-bd605f40c050)
+![Screenshot 2025-06-23 at 11 40 51 PM](https://github.com/user-attachments/assets/26e44d87-f7d3-4b49-be0b-3f65a808aac3)
+![Screenshot 2025-06-23 at 11 46 59 PM](https://github.com/user-attachments/assets/4acf5c27-1531-4367-9f0f-497b76e0492f)
+![Screenshot 2025-06-23 at 11 51 01 PM](https://github.com/user-attachments/assets/2e56f242-f893-45d7-b0c9-33a56d305018)
