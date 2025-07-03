@@ -9,6 +9,14 @@ TShark Challenge II: Directory
 ---
 
 
+## Tools Used
+
+- TShark (CLI version of Wireshark)  
+- CyberChef (for defanging and data manipulation)  
+- VirusTotal (for domain and file reputation)  
+- sha256sum (for hashing files)  
+- Linux command line utilities: awk, grep, sort, uniq, wc
+
 ---
 
 ## Step-by-Step Walkthrough
